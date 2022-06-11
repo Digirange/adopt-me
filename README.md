@@ -12,17 +12,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Digirange/blog-app">
-    <img src="public/harden.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Digirange/adopt-me">
+    <img src="public/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Adopt Me FEM Project</h3>
 
   <p align="center">
-    Minimal Blog App
+    Pet Adoption Project from Brian Holt's Font-End Masters Course
     <br />
-    <a href="https://github.com/Digirange/blog-app"><strong>Explore the docs »</strong></a>
-    <p>still under development...</p>
+    <a href="https://github.com/Digirange/adopt-me"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -45,8 +44,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -59,14 +56,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://mtd-blog.vercel.app/)
-A simple and minimal blog that can be used as a base template.
+[![Product Name Screen Shot][product-screenshot]]
+A template for a pet adoption website
 
+* Built with React.js 
 
-Features:
-* Built with Next.js allowing you to seamlessly connect your backend to your frontend
-* Built with Chakra-Ui component library for easy customization and bringing your project to life!
-* Easy deployment with Vercel built by Next.js
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,8 +69,7 @@ Features:
 ### Built With
 
 
-* [Next.js](https://nextjs.org/)
-* [Chakra-Ui](https://chakra-ui.com/)
+* [React](https://reactjs.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -109,7 +102,7 @@ npm --version
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Digirange/blog-app.git
+git clone https://github.com/Digirange/adopt-me.git
 ```
 2. Install NPM packages
    ```sh
@@ -125,19 +118,6 @@ npm run dev
 
 
 <!-- USAGE EXAMPLES -->
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Add a comment section
-- [ ] Move all text fields to ./constants
-- [ ] Implement Meta Data
-- [ ] Add GitHub Actions
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -167,7 +147,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email - MstewWebDev@gmail.com
 
-Project Link: [https://github.com/Digirange/blog-app](https://github.com/Digirange/blog-app)
+Project Link: [https://github.com/Digirange/adopt-me](https://github.com/Digirange/adopt-me)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -179,8 +159,6 @@ Project Link: [https://github.com/Digirange/blog-app](https://github.com/Digiran
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
-* [A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Chakra UI Menu Dropdown on Hover](https://www.coffeeclass.io/articles/use-disclosure-menu-chakra-ui)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,16 +166,16 @@ Project Link: [https://github.com/Digirange/blog-app](https://github.com/Digiran
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Digirange/blog-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/Digirange/blog-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Digirange/blog-app.svg?style=for-the-badge
-[forks-url]: https://github.com/Digirange/blog-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/Digirange/blog-app.svg?style=for-the-badge
-[stars-url]: https://github.com/Digirange/blog-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Digirange/blog-app.svg?style=for-the-badge
-[issues-url]: https://github.com/Digirange/blog-app/issues
-[license-shield]: https://img.shields.io/github/license/Digirange/blog-app.svg?style=for-the-badge
-[license-url]: https://github.com/Digirange/blog-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Digirange/adopt-me.svg?style=for-the-badge
+[contributors-url]: https://github.com/Digirange/adopt-me/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Digirange/adopt-me.svg?style=for-the-badge
+[forks-url]: https://github.com/Digirange/adopt-me/network/members
+[stars-shield]: https://img.shields.io/github/stars/Digirange/adopt-me.svg?style=for-the-badge
+[stars-url]: https://github.com/Digirange/adopt-me/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Digirange/adopt-me.svg?style=for-the-badge
+[issues-url]: https://github.com/Digirange/adopt-me/issues
+[license-shield]: https://img.shields.io/github/license/Digirange/adopt-me.svg?style=for-the-badge
+[license-url]: https://github.com/Digirange/adopt-me/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marques-stewart-160485192/
-[product-screenshot]: public/Homepage-blog.png
+[product-screenshot]: public/adopt-me-homepage.png
